@@ -1,0 +1,10 @@
+{
+    "name": "ZeroPingInteract",
+    "creator": "Ribi333",
+    "version": "1.0.0",
+    "entry": "index.js",
+    "requires": [
+        "BloomCore",
+        "PogData"
+    ]
+}
